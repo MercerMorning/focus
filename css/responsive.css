@@ -42,9 +42,9 @@
         margin-bottom: 23px;
     }
 	.header_area .navbar {
-		background-image: -moz-linear-gradient( 0deg, rgba(188,43,255,.8) 0%, rgba(114,73,251,.8) 100%);
-		background-image: -webkit-linear-gradient( 0deg, rgba(188,43,255,.8) 0%, rgba(114,73,251,.8) 100%);
-		background-image: -ms-linear-gradient( 0deg, rgba(188,43,255,.8) 0%, rgba(114,73,251,.8) 100%);
+		background-image: -moz-linear-gradient(to top right, rgb(20, 204, 198), rgb(23, 189, 184), rgb(26, 174, 170), rgb(28, 158, 156), rgb(31, 143, 142), rgb(34, 128, 128), rgb(37, 113, 115), rgb(40, 98, 101), rgb(43, 83, 87), rgb(45, 67, 73), rgb(48, 52, 59), rgb(51, 37, 45));
+		background-image: -webkit-linear-gradient(to top right, rgb(20, 204, 198), rgb(23, 189, 184), rgb(26, 174, 170), rgb(28, 158, 156), rgb(31, 143, 142), rgb(34, 128, 128), rgb(37, 113, 115), rgb(40, 98, 101), rgb(43, 83, 87), rgb(45, 67, 73), rgb(48, 52, 59), rgb(51, 37, 45));
+		background-image: -ms-linear-gradient(to top right, rgb(20, 204, 198), rgb(23, 189, 184), rgb(26, 174, 170), rgb(28, 158, 156), rgb(31, 143, 142), rgb(34, 128, 128), rgb(37, 113, 115), rgb(40, 98, 101), rgb(43, 83, 87), rgb(45, 67, 73), rgb(48, 52, 59), rgb(51, 37, 45));
 	}
     .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
 		opacity: 1;
